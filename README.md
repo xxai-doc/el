@@ -7,3 +7,4 @@
 * [κωδικός διεπαφής](https://github.com/xxai-art/web)
 * [Πακέτα γλωσσών για τον ιστότοπο ως σύνολο](https://github.com/xxai-art/web/tree/main/i18n)
 * [Πακέτα γλωσσών για ενότητες σύνδεσης](https://github.com/wacpkg/user/tree/main/ui.i18n)
+* [Ιστοσελίδα Πολυγλωσσική Τεκμηρίωση](https://github.com/xxai-doc)
