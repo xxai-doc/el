@@ -2,13 +2,13 @@
 
 [@w5/coffee_plus](http://npmjs.com/@w5/coffee_plus) , προσθέστε ορισμένες δυνατότητες με βάση τη σύνταξη του coffeescript, δείτε [το coffee_plus](./coffee_plus.md) .
 
-* δηλώσει μεταβλητή
+## δηλώσει μεταβλητή
 
 ```
 + var1, var2
 ```
 
-* ετικέτα δήλωσης
+## ετικέτα δήλωσης
 
 `:$` προορίζεται για χρήση με [svelte](https://svelte.dev/docs#component-format-script-3-$-marks-a-statement-as-reactive) .
 
@@ -90,7 +90,7 @@ $ : (func = function() {
 });
 ```
 
-* γρήγορη εισαγωγή
+## γρήγορη εισαγωγή
 
 ```
 > zx/globals:
